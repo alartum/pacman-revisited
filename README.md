@@ -2,7 +2,7 @@
 As the name says it is the great old-school Pacman rewritten.
 
 ## Info
-You can eat peas and run away from the ghost with great joy by now, nevertheless it really requires a lot of work to be done. Here is a small to-do list:
+You can eat peas and run away from the ghost with great joy by now [sarcasm], however, there is a lot of work to be done. Here is a small to-do list:
 - [x] Added possibility to change the map
 - [ ] Add more enemies
 - [ ] Add points info-box and pretty menu (the info was being sent to the stdout by so far and this is really unacceptable)
