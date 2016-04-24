@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/corner.png</file>
+        <file>images/corner_border.png</file>
+        <file>images/corner_centered.png</file>
+        <file>images/corner_double.png</file>
+        <file>images/corner_square.png</file>
+        <file>images/gate.png</file>
+        <file>images/line.png</file>
+        <file>images/line_double.png</file>
+        <file>images/line_square.png</file>
+        <file>images/pellet.png</file>
+        <file>images/powerup.png</file>
+        <file>level.txt</file>
+        <file>images/sprites.gif</file>
+    </qresource>
+</RCC>
